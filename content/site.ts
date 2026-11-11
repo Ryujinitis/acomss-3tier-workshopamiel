@@ -40,8 +40,8 @@ export interface SiteContent {
 }
 
 export const site: SiteContent = {
-  name: "Acme Consulting",
-  headline: "Software and consulting that fits your business",
+  name: "Bisaya Consultings",
+  headline: "Bisaya Consultingss and consulting that fits your business",
   tagline: "Web development, custom software, and expert IT consulting.",
   intro:
     "We help teams ship the right software. Browse our catalog to see what we " +
